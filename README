@@ -1,0 +1,12 @@
+To Run this Program:
+1) Open up terminal
+2) Go to project folder
+3) Compile with command "g++ -std=c++11 machine.cpp main.cpp salCommands.cpp"
+4) Run executable with "./a.out"
+5) Enter commands
+
+Notes about text files:
+
+The file "input.sal" contains a test case that was found on piazza.
+
+The file "output.txt" is left blank, and will contain the saved state of the program when the command 's' is given.
